@@ -1,0 +1,21 @@
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\obj\Debug\Checkers.Form2.resources
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.Cache
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\Eli IT\Documents\Draughts\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\obj\Debug\Checkers.Form2.resources
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.Cache
+C:\Users\Eli IT\Documents\Experimental Checkers\Checkers\Checkers\obj\Debug\Checkers.Form3.resources
